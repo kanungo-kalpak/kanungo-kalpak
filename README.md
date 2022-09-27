@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanungo-kalpak&show_icons=true&locale=en" alt="kanungo-kalpak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanungo-kalpak&" alt="kanungo-kalpak" /></p>
+
+[![@kanungo_kalpak's Holopin board](https://holopin.io/api/user/board?user=kanungo_kalpak)](https://holopin.io/@kanungo_kalpak)
